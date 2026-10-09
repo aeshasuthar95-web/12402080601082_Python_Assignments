@@ -1,0 +1,3 @@
+{"device_id":"D1","temperature_c":30,"humidity":50}
+{"device_id":"D1","temperature_c":"bad","humidity":45}
+{"device_id":"D1","temperature_c":32,"humidity":48}
