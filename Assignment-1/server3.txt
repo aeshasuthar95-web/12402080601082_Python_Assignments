@@ -1,0 +1,3 @@
+Server started successfully
+User login failed
+Database connection established
